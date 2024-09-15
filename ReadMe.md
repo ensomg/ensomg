@@ -8,7 +8,7 @@
 <div align="center">
     <a href="https://instagram.com/ens.py" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://open.spotify.com/user/31nfajr6sunfjjdgy4oplhfun6qa?si=9cceb03fae614398" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://discord.com/users/852629327891660881" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/users/852629327891660881" target="_blank"><img src="https://img.shields.io/badge/Discord-Profile-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
 
