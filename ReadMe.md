@@ -13,7 +13,7 @@
 
 
 ```js
-class luhux {
+class nub {
 constructor(options) {
 this.name = "Enes",
 this.age = 17,
