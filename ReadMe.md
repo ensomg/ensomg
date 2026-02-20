@@ -16,7 +16,7 @@
 class nub {
 constructor(options) {
 this.name = "Enes",
-this.age = 17,
+this.age = 18,
 this.discord = "ensomg",
 this.discordId = "852629327891660881"
   };
