@@ -1,5 +1,5 @@
 <div align="center">
- <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=346679&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Hi+there%2C+I'am+Beş" alt="Typing SVG" />
+ <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=346679&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Hi+there%2C+I'am+Ens" alt="Typing SVG" />
 </div>
 
 <div align="center" width="100%">
@@ -56,7 +56,7 @@
  <img width="55%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Langauge's+%26+Tool's" alt="Typing SVG" />
  <br />
 <div align="center">
-<img width="65%" src="https://skillicons.dev/icons?i=js,ts,cs,swift,lua,html,css,nodejs,bun,express,nest,elysia,react,nextjs,angular,mysql,postgres,sqlite,mongo,redis,prisma,sequelize,rabbitmq,kafka,selenium,postman,graphql,aws,docker,electron,tailwind,regex,git,gitlab,npm,yarn&theme=dark&perline=12" alt="five">
+<img width="65%" src="https://skillicons.dev/icons?i=js,ts,cs,swift,lua,html,css,nodejs,bun,express,react,nextjs,mysql,sqlite,mongo,selenium,postman,graphql,aws,docker,electron,tailwind,regex,git,gitlab,npm,yarn&theme=dark&perline=12" alt="five">
 </div>
 </div>
 
@@ -67,8 +67,8 @@
  <img width="55%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Github+Stat's" alt="Typing SVG" />
 <br />
  <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Bes-js&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bes-js&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ens69420&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ens69420&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
  </div>
 
 </div>
