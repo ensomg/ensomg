@@ -85,6 +85,8 @@
  <div align="center">
     <a href="https://discord.gg/netiva" target="_blank" rel="noopener noreferrer">
         <img src="https://api.weblutions.com/discord/invite/netiva/" alt="CSS" />
+     <a href="https://discord.gg/yapayzeka" target="_blank" rel="noopener noreferrer">
+        <img src="https://api.weblutions.com/discord/invite/yapayzeka/" alt="CSS" />
     </a>
 </div>
 
