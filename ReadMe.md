@@ -67,8 +67,8 @@
  <img width="55%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Github+Stat's" alt="Typing SVG" />
 <br />
  <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=ens69420&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ens69420&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ensomg&theme=dark" width="%150" height="150px" alt="stats" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ensomg&theme=radical&hide_border=true"width="%100" height="150px" />
  </div>
 
 </div>
@@ -84,9 +84,9 @@
 </div>
  <div align="center">
     <a href="https://discord.gg/netiva" target="_blank" rel="noopener noreferrer">
-        <img src="https://api.weblutions.com/discord/invite/netiva/" alt="CSS" />
+        <img src="https://invite.casperiv.dev?inviteCode=4pm" alt="CSS" />
      <a href="https://discord.gg/yapayzeka" target="_blank" rel="noopener noreferrer">
-        <img src="https://api.weblutions.com/discord/invite/yapayzeka/" alt="CSS" />
+        <img src="https://invite.casperiv.dev?inviteCode=yapayzeka" alt="CSS" />
     </a>
 </div>
 
