@@ -30,5 +30,5 @@
 <a href="https://discord.gg/4pm"><img width="100%" src="cards/communities.svg" alt="Discord: Ens's Island" /></a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ensomg&style=for-the-badge&color=346679&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://hits.sh/github.com/ensomg.svg?style=for-the-badge&color=346679&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
