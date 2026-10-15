@@ -12,7 +12,7 @@
   <a href="https://buymeacoffee.com/ensomg"><img width="24%" src="cards/link-coffee.svg" alt="Buy me a coffee" /></a>
 </p>
 
-<img width="100%" src="cards/about.svg" alt="whoami: Enes, 18, full-stack developer — Next.js, NestJS, React, Express, Redis; TypeScript and JavaScript; building specialized apps, open to paid work" />
+<img width="100%" src="cards/about.svg" alt="whoami: Enes, 19, full-stack developer — Next.js, NestJS, React, Express, Redis; TypeScript and JavaScript; building specialized apps, open to paid work" />
 
 <img width="100%" src="cards/stack.svg" alt="Stack: TypeScript, JavaScript, Node.js, Bun, React, Next.js, NestJS, Express, Tailwind, Redis, MySQL, MongoDB, SQLite, GraphQL, Docker, AWS, Electron, Git, C#, Swift, Lua, Postman" />
 
