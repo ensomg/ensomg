@@ -227,7 +227,7 @@ async function linkCard({ name, bg, wave, icon, fallback }) {
 function about() {
   const rows = [
     ['name', 'Enes (ens)'],
-    ['age', '18'],
+    ['age', '19'],
     ['role', 'full-stack developer'],
     ['stack', 'Next.js · NestJS · React · Express · Redis'],
     ['langs', 'TypeScript · JavaScript'],

@@ -29,6 +29,5 @@
 
 <a href="https://discord.gg/4pm"><img width="100%" src="cards/communities.svg" alt="Discord: Ens's Island" /></a>
 
-<p align="center">
-  <img src="https://hits.sh/github.com/ensomg.svg?label=PROFILE%20VIEWS&extraCount=12381&color=000000" alt="Profile views" />
-</p>
+<!-- Canlı sayaç: ensomg-visits (Vercel) — hits.sh sayısını (+12381) kart tasarımında çizer. -->
+<img width="100%" src="https://ensomg-visits.vercel.app/api/visits" alt="Profile views" />
